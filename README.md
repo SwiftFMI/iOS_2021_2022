@@ -12,7 +12,16 @@ iOS Course at FMI - Sofia University
 
 # Лекции
 
-Лекция 1 - [Xcode](lectures/Lecture 1 - Xcode.md)
+Лекция 1 - [Xcode](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%201%20-%20Xcode.md) [Git](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Git.md)
+
+# Виртуален мак имидж
+
+Може да се ползва следния [линк](https://techspite.com/download-macos-big-sur-vmware-virtualbox-image-latest-version/) за изтегляне на готов имидж.
+
+Софтуерът за виртуализация може да намерите [тук](https://www.vmware.com/ca/products/workstation-player/workstation-player-evaluation.html).
+
+> Трябва да имате 40ГБ+ свободно дисково пространство. Виртуалният имидж е около 12ГБ. [Xcode](https://developer.apple.com/download/all/?q=xcode) - 10ГБ за инсталатора + поне още 15ГБ за самата инсталация.
+
 
 # Анкета
 
