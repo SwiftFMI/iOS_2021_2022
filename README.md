@@ -1,6 +1,10 @@
 # iOS 2021/2022
 iOS Course at FMI - Sofia University
 
+## Лекции и семинари
+
+Няма да има лекции и семинари на __20.10, 21.10, 22.10__. Моля, прочетете записките [тук](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%202%20-%20Swift.md).
+
 ## Оценяване
 
 Оценяването в курса е комплексно. Трябва да се участва активно в семинарите (чрез практически решения на задачи). Оценката като отбор е голям фактор, но решаващо значение има индивидуалния принос и разбирането на материала изучаван по време на курса.
@@ -13,6 +17,7 @@ iOS Course at FMI - Sofia University
 # Лекции
 
 Лекция 1 - [Xcode](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%201%20-%20Xcode.md) [Git](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Git.md)
+Лекция 2 - [Swift](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%202%20-%20Swift.md)
 
 # Виртуален мак имидж
 
