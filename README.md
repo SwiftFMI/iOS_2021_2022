@@ -1,7 +1,13 @@
 # iOS 2021/2022
 iOS Course at FMI - Sofia University
 
+## Слак канал
+
+Можете да се присъедините към слак пространството свързано със SwiftFMI [тук](https://join.slack.com/t/swiftfmi/shared_invite/zt-cvk8hvfo-IFVMMCGgUpWLoXuLSjtTHQ).
+
 ## Лекции и семинари
+
+Преминаваме на дистанциионна форма на обучение. Ллекции и семинари на __27.10, 28.10__ може да се проведат онлайн. Ще има допълнителна инфомация тук и във slack #ios-2021-2022. 
 
 Няма да има лекции и семинари на __20.10, 21.10, 22.10__. Моля, прочетете записките [тук](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%202%20-%20Swift.md).
 
@@ -18,6 +24,7 @@ iOS Course at FMI - Sofia University
 
 Лекция 1 - [Xcode](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%201%20-%20Xcode.md) [Git](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Git.md)
 Лекция 2 - [Swift](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%202%20-%20Swift.md)
+Лекция 3 - [UIKit](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%203%20-%20UIKit.md)
 
 # Виртуален мак имидж
 
