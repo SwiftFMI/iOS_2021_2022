@@ -28,6 +28,11 @@ iOS Course at FMI - Sofia University
 Лекция 2 - [Swift](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%202%20-%20Swift.md)
 Лекция 3 - [UIKit](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%203%20-%20UIKit.md)
 
+
+# Семинари
+
+Семинар 2 - [Swift](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/seminars/seminar_2.md)
+
 # Виртуален мак имидж
 
 Може да се ползва следния [линк](https://techspite.com/download-macos-big-sur-vmware-virtualbox-image-latest-version/) за изтегляне на готов имидж.
