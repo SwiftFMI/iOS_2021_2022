@@ -5,6 +5,10 @@ iOS Course at FMI - Sofia University
 
 Можете да се присъедините към слак пространството свързано със SwiftFMI [тук](https://join.slack.com/t/swiftfmi/shared_invite/zt-cvk8hvfo-IFVMMCGgUpWLoXuLSjtTHQ).
 
+## Виртуална машина
+
+[Тук](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/vm/vm.macos.bigsur.md) може да прочете повече как да подкарате виртален macOS Big Sur. Примерът е с цел обучение при липсата на подходящ хардуер.
+
 ## Лекции и семинари
 
 Онлайн [стая](https://meet.google.com/ntt-sdzb-xtn) за лекции и семинари от 18:00 в сряда и четвъртък. Моля, регистрирайте се и в слак, за да може да комуникираме по-лесно по теми свързани с курса.
