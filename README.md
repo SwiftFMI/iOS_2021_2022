@@ -36,6 +36,7 @@ iOS Course at FMI - Sofia University
 # Семинари
 
 Семинар 2 - [Swift](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/seminars/seminar_2.md)
+Семинар 3 - [Swift](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/seminars/seminar_3.md)
 
 # Виртуален мак имидж
 
