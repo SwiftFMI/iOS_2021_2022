@@ -29,14 +29,17 @@ iOS Course at FMI - Sofia University
 # Лекции
 
 Лекция 1 - [Xcode](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%201%20-%20Xcode.md) [Git](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Git.md)
+
 Лекция 2 - [Swift](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%202%20-%20Swift.md)
+
 Лекция 3 - [UIKit](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/lectures/Lecture%203%20-%20UIKit.md)
 
 
 # Семинари
 
 Семинар 2 - [Swift](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/seminars/seminar_2.md)
-Семинар 3 - [Swift](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/seminars/seminar_3.md)
+
+Семинар 3 - [UIKit](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/seminars/seminar_3.md)
 
 # Виртуален мак имидж
 
