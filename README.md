@@ -1,6 +1,12 @@
 # iOS 2021/2022
 iOS Course at FMI - Sofia University
 
+## Проекти
+
+Моля, попълнете следната [форма](https://forms.gle/VNa8aJeY281BRfyC9), след като се запознаете с проектите.
+
+Всички проекти може да намерите [тук](https://github.com/SwiftFMI/iOS_2021_2022/blob/main/projects/list).
+
 ## Слак канал
 
 Можете да се присъедините към слак пространството свързано със SwiftFMI [тук](https://join.slack.com/t/swiftfmi/shared_invite/zt-cvk8hvfo-IFVMMCGgUpWLoXuLSjtTHQ).
