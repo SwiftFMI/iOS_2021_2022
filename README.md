@@ -1,6 +1,13 @@
 # iOS 2021/2022
 iOS Course at FMI - Sofia University
 
+## Практическо изпитване на 6 и 7 януари
+
+На 6 и 7 януари от 18:30 ще проведем дистанционно практическо контролно. Всеки ще получи индивидуална задача, която трябва да реши със зания за:
+ > Swift, UIKit (UITableView, UICollectionView, UIViewController, UINavigationViewController и други), Interface Builder, MVC, AutoLayout и Xcode.
+
+Моля, всички които нямат достъп до mac да ми пишат предварително.
+
 ## Проекти
 
 Моля, попълнете следната [форма](https://forms.gle/VNa8aJeY281BRfyC9), след като се запознаете с проектите.
